@@ -33,3 +33,18 @@ Index(['instance_id', 'item_id', 'item_brand_id', 'item_city_id',
        'ipc_ra_ic', 'ipc_ra_ip', 'ipp_ra_pc', 'ipp_ra_pp', 'sumprice', 'hours',
        'days'],
       dtype='object')
+
+
+modeltrain02----------------------------------------------------------------
+
+gbdt的训练集log损失： 0.08935791833109166
+gbdt的测试集log损失： 0.08264026453401313
+gbdt计算时间 157.26006603240967
+
+xgboost的训练集log损失 0.09004494067409705
+xgboost的测试集log损失 0.08267915229913446
+xgboost计算时间 93.52932214736938
+
+lightgbm的训练集log损失 0.08797246580886554
+lightgbm的测试集集log损失 0.08284546394337344
+lightgbm计算时间 10.862508058547974
