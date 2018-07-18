@@ -30,7 +30,7 @@ getFeatures01
 
 已完成用户各项关注次数统计
 
-已完成时间转换
+已完成时间转换，30维特征
 
 Index(['instance_id', 'item_id', 'item_brand_id', 'item_city_id',
        'item_price_level', 'item_sales_level', 'item_collected_level',
