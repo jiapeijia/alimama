@@ -1,6 +1,6 @@
 # alimama
 IJCAI-18 阿里妈妈搜索广告转化预测
-
+https://tianchi.aliyun.com/competition/information.htm?spm=5176.11165320.5678.2.70196602l0Nh0e&raceId=231647
 搜索广告的购买率预测
 包含的信息包括，广告本身字段信息，客户个人信息，店铺的城市
 、评分、收藏、被购买指标，用户的点击信息（时间、次数、
